@@ -14,7 +14,7 @@ import { ToastMessage } from "./common/ToastMessage";
 import { InputLabelField } from "./common/InputLabelField";
 
 const FormContainer = styled(Box)({
-  width: "400px",
+  width: "450px",
   margin: "0 auto",
   padding: "2rem",
   boxShadow: "0px 0px 10px rgba(0,0,0,0.1)",
